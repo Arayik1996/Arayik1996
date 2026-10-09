@@ -7,5 +7,5 @@ SaaS Support & Customer Success professional based in Yerevan, Armenia.
 - Salesforce Service Cloud, Zendesk, knowledge base management
 - Languages: Armenian, English, Russian, Arabic
 
-Portfolio: https://arayik1996.github.io
+Portfolio: https://arayiksargsyan.com
 LinkedIn: https://www.linkedin.com/in/arayik-sargsyan
